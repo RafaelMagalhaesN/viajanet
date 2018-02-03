@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="auto_complete_error">Erro durante a procura dos dados</string>
+    <string name="error_text">Precisamos da permissão do seu local para mostrar o mapa</string>
+    <string name="check_permission_again">Solicitar novamente</string>
+
+
+
+
+
+    <!-- KEYS PARA AS APIS UTILIZADAS -->
+    <string name="debug_api_key" translatable="false"></string>
+    <string name="release_api_key" translatable="false"></string>
+
+</resources>
