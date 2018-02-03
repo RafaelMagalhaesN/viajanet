@@ -7,7 +7,7 @@ Por gentileza, inserir uma chave com os serviços de api:
 
 no caminho: 
 
-src -> res -> values -> strings.xml -> 
+app -> src -> main -> res -> values -> strings.xml -> 
 
 Para o debug: <string name="debug_api_key" translatable="false">CHAVE AQUI</string>
 Para o release: <string name="release_api_key" translatable="false">CHAVE AQUI</string>
