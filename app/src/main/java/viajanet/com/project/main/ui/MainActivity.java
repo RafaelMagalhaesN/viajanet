@@ -7,10 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
-
 import com.google.android.gms.location.places.ui.PlaceAutocompleteFragment;
-import com.google.android.gms.maps.model.LatLng;
-
 import viajanet.com.project.R;
 import viajanet.com.project.databinding.ActivityMainBinding;
 import viajanet.com.project.main.entities.MainPresenter;
